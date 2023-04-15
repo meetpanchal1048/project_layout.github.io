@@ -14,8 +14,7 @@ export const HtmlProjects = () => {
                     <div class="card-body">
                         <h5 class="pro-title">Portfolio 1.0</h5>
                         <div className="pro-desc-top">
-                            <p class="pro-desc">HTML</p>
-                            <p class="pro-desc">CSS</p>
+                            <p class="pro-desc">HTML/CSS</p>
                             <p class="pro-desc">JavaScript</p>
                         </div>
                     </div>
@@ -25,8 +24,7 @@ export const HtmlProjects = () => {
                     <div class="card-body">
                         <h5 class="pro-title">TechRec</h5>
                         <div className="pro-desc-top">
-                            <p class="pro-desc">HTML</p>
-                            <p class="pro-desc">CSS</p>
+                            <p class="pro-desc">HTML/CSS</p>
                             <p class="pro-desc">JavaScript</p>
                         </div>
                     </div>
@@ -36,8 +34,8 @@ export const HtmlProjects = () => {
                     <div class="card-body">
                         <h5 class="pro-title">Layered Page</h5>
                         <div className="pro-desc-top">
-                            <p class="pro-desc">HTML</p>
-                            <p class="pro-desc">CSS</p>
+                            <p class="pro-desc">HTML/CSS</p>
+                            <p class="pro-desc">JavaScript</p>
                         </div>
                     </div>
                 </div>
@@ -47,9 +45,7 @@ export const HtmlProjects = () => {
                         <h5 class="pro-title">TimeLine</h5>
                         <div className="pro-desc-top">
                             <p class="pro-desc">JavaScript</p>
-                            <p class="pro-desc">HTML</p>
-                            <p class="pro-desc">CSS</p>
-                            <p class="pro-desc">JavaScript</p>
+                            <p class="pro-desc">HTML/CSS</p>
                         </div>
                     </div>
                 </div>

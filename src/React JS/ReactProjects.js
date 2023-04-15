@@ -15,8 +15,7 @@ export const ReactProjects = () => {
                         <h5 class="pro-title">Portfolio 2.0</h5>
                         <div className="pro-desc-top">
                             <p class="pro-desc">React JS</p>
-                            <p class="pro-desc">HTML</p>
-                            <p class="pro-desc">CSS</p>
+                            <p class="pro-desc">HTML/CSS</p>
                             <p class="pro-desc">JavaScript</p>
                         </div>
                     </div>
@@ -27,8 +26,7 @@ export const ReactProjects = () => {
                         <h5 class="pro-title">Calculator</h5>
                         <div className="pro-desc-top">
                             <p class="pro-desc">React JS</p>
-                            <p class="pro-desc">HTML</p>
-                            <p class="pro-desc">CSS</p>
+                            <p class="pro-desc">HTML/CSS</p>
                             <p class="pro-desc">JavaScript</p>
                         </div>
                     </div>
@@ -39,8 +37,7 @@ export const ReactProjects = () => {
                         <h5 class="pro-title">Birthday Reminder</h5>
                         <div className="pro-desc-top">
                             <p class="pro-desc">React JS</p>
-                            <p class="pro-desc">HTML</p>
-                            <p class="pro-desc">CSS</p>
+                            <p class="pro-desc">HTML/CSS</p>
                             <p class="pro-desc">JavaScript</p>
                         </div>
                     </div>

@@ -16,8 +16,7 @@ export const JsProjects = () => {
                     <div class="card-body">
                         <h5 class="pro-title">NotSimpleClock</h5>
                         <div className="pro-desc-top">
-                            <p class="pro-desc">HTML</p>
-                            <p class="pro-desc">CSS</p>
+                            <p class="pro-desc">HTML/CSS</p>
                             <p class="pro-desc">JavaScript</p>
                         </div>
                     </div>
@@ -27,8 +26,7 @@ export const JsProjects = () => {
                     <div class="card-body">
                         <h5 class="pro-title">Color Shift <small>(Not a human)</small></h5>
                         <div className="pro-desc-top">
-                            <p class="pro-desc">HTML</p>
-                            <p class="pro-desc">CSS</p>
+                            <p class="pro-desc">HTML/CSS</p>
                             <p class="pro-desc">JavaScript</p>
                         </div>
                     </div>
@@ -38,9 +36,7 @@ export const JsProjects = () => {
                     <div class="card-body">
                         <h5 class="pro-title">Counter</h5>
                         <div className="pro-desc-top">
-                            <p class="pro-desc">React JS</p>
-                            <p class="pro-desc">HTML</p>
-                            <p class="pro-desc">CSS</p>
+                            <p class="pro-desc">HTML/CSS</p>
                             <p class="pro-desc">JavaScript</p>
                         </div>
                     </div>
@@ -50,9 +46,7 @@ export const JsProjects = () => {
                     <div class="card-body">
                         <h5 class="pro-title">Login Form</h5>
                         <div className="pro-desc-top">
-                            <p class="pro-desc">React JS</p>
-                            <p class="pro-desc">HTML</p>
-                            <p class="pro-desc">CSS</p>
+                            <p class="pro-desc">HTML/CSS</p>
                             <p class="pro-desc">JavaScript</p>
                         </div>
                     </div>
@@ -62,9 +56,7 @@ export const JsProjects = () => {
                     <div class="card-body">
                         <h5 class="pro-title">No Lorem Ipsum</h5>
                         <div className="pro-desc-top">
-                            <p class="pro-desc">React JS</p>
-                            <p class="pro-desc">HTML</p>
-                            <p class="pro-desc">CSS</p>
+                            <p class="pro-desc">HTML/CSS</p>
                             <p class="pro-desc">JavaScript</p>
                         </div>
                     </div>
@@ -74,8 +66,7 @@ export const JsProjects = () => {
                     <div class="card-body">
                         <h5 class="pro-title">MenuButDynamic</h5>
                         <div className="pro-desc-top">
-                            <p class="pro-desc">HTML</p>
-                            <p class="pro-desc">CSS</p>
+                            <p class="pro-desc">HTML/CSS</p>
                             <p class="pro-desc">JavaScript</p>
                         </div>
                     </div>
@@ -85,8 +76,7 @@ export const JsProjects = () => {
                     <div class="card-body">
                         <h5 class="pro-title">Video Player (Simple)</h5>
                         <div className="pro-desc-top">
-                            <p class="pro-desc">HTML</p>
-                            <p class="pro-desc">CSS</p>
+                            <p class="pro-desc">HTML/CSS</p>
                             <p class="pro-desc">JavaScript</p>
                         </div>
                     </div>
