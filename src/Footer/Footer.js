@@ -12,8 +12,8 @@ export const Footer = () => {
         <h2 className='footer-text'>Mit.Portfolio</h2>
         <span className='line'></span>
         <div className="iconss">
-          <a href=''><img src={linkedin} className='logos' /></a>
-          <a href=''><img src={instagram} className='logos' /></a>
+          <a href='https://www.linkedin.com/in/meet-panchal-531ba1237'><img src={linkedin} className='logos' /></a>
+          <a href='https://instagram.com/meet8960?igshid=ZDdkNTZiNTM='><img src={instagram} className='logos' /></a>
           <a href=''><img src={twitter} className='logos' /></a>
           <a href='mailto:meetpanchal1048@gmail.com'><img src={email} className='logos' /></a>
         </div>
