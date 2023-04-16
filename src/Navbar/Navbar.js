@@ -12,7 +12,11 @@ export const Navbar = () => {
                     </button>
                     <div className="collapse navbar-collapse"  id="navbarNavAltMarkup">
                         <div className="navbar-nav">
+<<<<<<< HEAD
                             <a className="nav-link" href="https://meetpanchal1048.github.io/Portfolio_2_/">Home</a>
+=======
+                            <a className="nav-link" href="https://meetpanchal1048.github.io/Portfolio_MIT.github.io/">Home</a>
+>>>>>>> d3a7e2d5756cc14599d0be43010287f045ece7a8
                             <a className="nav-link" aria-current="page" href="#javascript">JavaScript</a>
                             <a className="nav-link" href="#react">React JS</a>
                         </div>
