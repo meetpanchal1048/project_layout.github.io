@@ -1,16 +1,21 @@
 {
   "files": {
     "main.css": "/project_layout.github.io/static/css/main.f3b00d3d.css",
-    "main.js": "/project_layout.github.io/static/js/main.518774c0.js",
+    "main.js": "/project_layout.github.io/static/js/main.deca0dfc.js",
+    "static/media/sophie.png": "/project_layout.github.io/static/media/sophie.d959a028f47d9b94676b.png",
     "static/media/portfolio.png": "/project_layout.github.io/static/media/portfolio.0d7bdef508a6c348f4db.png",
     "static/media/Video Player.png": "/project_layout.github.io/static/media/Video Player.b90f59fc092ac9818aa3.png",
     "static/media/calculator.png": "/project_layout.github.io/static/media/calculator.c8cf005d20522c949a84.png",
     "static/media/portfolio2.png": "/project_layout.github.io/static/media/portfolio2.adf9fe6a3c4390fa40db.png",
+    "static/media/wisemissteps.png": "/project_layout.github.io/static/media/wisemissteps.b07a909bbc23f4253406.png",
+    "static/media/techrech 2.png": "/project_layout.github.io/static/media/techrech 2.8d1c4026ea1cfbe1af77.png",
     "static/media/Timeline.png": "/project_layout.github.io/static/media/Timeline.5db37676c8a94d076e01.png",
+    "static/media/manage.png": "/project_layout.github.io/static/media/manage.b8fdee9e29657c94a617.png",
     "static/media/lorem.png": "/project_layout.github.io/static/media/lorem.0ad2e2215094d0f0b3b1.png",
     "static/media/techrec.png": "/project_layout.github.io/static/media/techrec.cb668d1a8a0f507be086.png",
     "static/media/Menu.png": "/project_layout.github.io/static/media/Menu.1f8232d055b2b2feaf3b.png",
     "static/media/birthday.png": "/project_layout.github.io/static/media/birthday.4b06ce28e19358fc4bd3.png",
+    "static/media/qr code.png": "/project_layout.github.io/static/media/qr code.d9753ab04c12781062df.png",
     "static/media/layered.png": "/project_layout.github.io/static/media/layered.732bca3a7dccb54cc936.png",
     "static/media/Counter.png": "/project_layout.github.io/static/media/Counter.10ed47ec93e86acb59e2.png",
     "static/media/Color shift.png": "/project_layout.github.io/static/media/Color shift.98671b3cbd45cfc99a5c.png",
@@ -22,10 +27,10 @@
     "static/media/linkedin.svg": "/project_layout.github.io/static/media/linkedin.93683c2cc3d5ca884dcf6c3525104a48.svg",
     "static/media/envelope-solid.svg": "/project_layout.github.io/static/media/envelope-solid.6345f82ededa4dc800949734956dc764.svg",
     "main.f3b00d3d.css.map": "/project_layout.github.io/static/css/main.f3b00d3d.css.map",
-    "main.518774c0.js.map": "/project_layout.github.io/static/js/main.518774c0.js.map"
+    "main.deca0dfc.js.map": "/project_layout.github.io/static/js/main.deca0dfc.js.map"
   },
   "entrypoints": [
     "static/css/main.f3b00d3d.css",
-    "static/js/main.518774c0.js"
+    "static/js/main.deca0dfc.js"
   ]
 }
